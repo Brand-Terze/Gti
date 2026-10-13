@@ -1,0 +1,6 @@
+{
+  "name": "مساري - تطبيق الأهداف اليومية",
+  "description": "تطبيق أندرويد لمتابعة وإدارة الأهداف اليومية الهرمية (رئيسية، فرعية، متفرعة) ونسبة الإنجاز وقائمة الأدوات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

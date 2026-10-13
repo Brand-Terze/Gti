@@ -1,0 +1,9 @@
+{
+  "appId": "com.masari.goals",
+  "appName": "مساري",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
